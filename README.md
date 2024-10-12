@@ -102,7 +102,7 @@ public class InputSystem : IInputHandler
 }
 ```
 
-### ``CubeController`
+### `CubeController`
 Manages the behavior of the cube, using the `IMovable` system to handle movement.
 
 ```csharp
